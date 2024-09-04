@@ -1,1 +1,26 @@
+body {
+	background: #a376b5;
+	
+}
 
+h1 {
+	text-align: center;
+	background: #659133;
+	color: #ffffff;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	color: #ffffff
+}
+.answers {
+	color: #40e659;
+	display: none;
+}
+
+img {
+	width: 25%;
+}
